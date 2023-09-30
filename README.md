@@ -2,7 +2,7 @@
 
 ### Workflow
 1. research
-2. congif.yaml
+2. config.yaml
 3. entity
 4. component
 5. pipeline
